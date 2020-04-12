@@ -1,2 +1,2 @@
 # FlaskApp
-User login and signup web appication using Django open-source web framework.
+User login and signup web appication using flask open-source micro-web framework.
